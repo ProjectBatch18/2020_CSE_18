@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<EditTextPreference
+    android:dialogMessage="Enter Threshold"
+    android:dialogTitle="@string/app_name"
+    android:key="threshold"
+    android:summary="Enter Accelerometer threshold"
+    android:title="Threshold" />
+<EditTextPreference
+    android:dialogMessage="Enter First Number"
+    android:dialogTitle="@string/app_name"
+    android:key="First Number"
+    android:summary="call dialed automatically"
+    android:title="First Number"
+    android:visibility="visible"/>
+
+
+<EditTextPreference
+    android:dialogMessage="Enter Second Number"
+    android:dialogTitle="@string/app_name"
+    android:gravity="center"
+    android:key="Second Number"
+    android:summary="Enter Second Number"
+    android:title="Second Number"
+    android:visibility="visible" />
+
+<EditTextPreference
+    android:dialogMessage="Enter Third Number"
+    android:dialogTitle="@string/app_name"
+    android:key="third Number"
+    android:summary="Enter Third Number"
+    android:title="Third Number" />
+
+
+
+
+
+</PreferenceScreen>
+
+
+
