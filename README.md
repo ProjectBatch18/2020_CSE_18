@@ -12,4 +12,3 @@
  
  settigs_activity.xml description:
  This file is the code for the next page of the app, which includes edit textpreferences for threshold value and first,second,third mobile numbers as per victim's choice.
- This is new project
