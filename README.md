@@ -4,7 +4,7 @@
 
 Software Requirements:
 
-  Android Studio
+  Android Studio.
   Android SDK 4.1.3 
   JDK 16.0.1
   Java & Xml are programming languages
