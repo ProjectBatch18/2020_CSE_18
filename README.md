@@ -12,15 +12,22 @@ JDK 16.0.1
 
 Java & Xml are programming languages
 
- In our project we use two Android based Application.
+In our project we use two Android based Application.
      
      Victim's App
      Guardian's App
  
- Victim's app user iterface:
+Victim's app user iterface: 
  
- activity_main.xml description:
- This file is the code for first page of victim app, it includes settings button. 
+activity_main.xml description:
+This file is the code for first page of victim app, it includes settings button. 
+
+activity_main2.xml description: 
+This file is the code for the next page of the app, which includes Threshold value Button and Add Phone Number Button.
  
- settigs_activity.xml description:
- This file is the code for the next page of the app, which includes edit textpreferences for threshold value and first,second,third mobile numbers as per victim's choice.
+settigs.xml description:
+This file includes the code for edit textpreferences for first,second,third phone numbers.
+
+threshold_setting.xml:
+This file includes the code for edit textpreferences for Threshold value.
+
