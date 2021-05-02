@@ -1,5 +1,8 @@
 # 2020_CSE_18
 # E Defence For People Safety
+'E Defence For People Safety' presents an alert system for problem detection using common commercially available electronic devices to both detect the problem and alert authorities.
+
+s
  In our project we use two Android based Application.
      
      Victim's App
