@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#151414"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="409dp"
+        android:layout_height="75dp"
+        android:background="#FF7700"
+        android:text="Settings"
+        android:textColor="#F8F5F5"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="105dp" />
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="410dp"
+        android:layout_height="56dp"
+        android:text="Threshold Value"
+        android:textColor="#0C0C0C"
+        android:textStyle="bold"
+        app:backgroundTint="#FFFFFF"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="206dp" />
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="407dp"
+        android:layout_height="57dp"
+        android:text="Add Phone Number"
+        android:textColor="#0B0A0A"
+        android:textStyle="bold"
+        app:backgroundTint="#FBFAF8"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="262dp" />
+
+
+</LinearLayout>

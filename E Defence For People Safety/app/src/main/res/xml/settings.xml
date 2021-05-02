@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="Default value"
+        android:icon="@drawable/call"
+        android:key="edit_text_preference_2"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="Call dailed automatically"
+        android:textColor="#121111"
+        android:textSize="25sp"
+        android:title="First Number" />
+    <EditTextPreference
+        android:defaultValue="Default value"
+        android:icon="@drawable/mssg"
+        android:key="edit_text_preference_1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:textSize="25sp"
+        android:title="Second Number" />
+    <EditTextPreference
+        android:defaultValue="Default value"
+        android:icon="@drawable/mssg"
+        android:key="edit_text_preference_3"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:textSize="25sp"
+        android:title="Third Number" />
+</PreferenceScreen>
