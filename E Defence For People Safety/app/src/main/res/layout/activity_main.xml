@@ -7,19 +7,6 @@
     tools:context=".MainActivity">
 
 
-
-    <!--<Button
-        android:id="@+id/buttonone"
-        android:layout_width="577dp"
-        android:layout_height="66dp"
-        android:background="#4CAF50"
-        android:text="SETTINGS"
-        android:textSize="25dp"
-        app:backgroundTint="#F48836"
-        tools:layout_editor_absoluteX="-3dp"
-        tools:layout_editor_absoluteY="100dp" />-->
-
-
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="411dp"
