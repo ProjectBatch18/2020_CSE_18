@@ -31,7 +31,7 @@ This file is the code for the next page of the app, which includes Threshold val
 This week we have created the mobile views of settings pages such as Set Threshold page and Add phone number page.
 
 threshold_setting.xml:
-This file includes the code to Threshold value.
+This file includes the code to set the Threshold value.
 
 settigs.xml description:
 This file includes the code to set first,second,third phone numbers.
