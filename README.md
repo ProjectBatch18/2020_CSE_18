@@ -36,7 +36,6 @@ This file includes the code for edit textpreferences for first,second,third phon
 threshold_setting.xml:
 This file includes the code for edit textpreferences for Threshold value
 
-This week we have created the mobile views of settings pages such as Set Threshold page and Add phone number page.
 
 
 
