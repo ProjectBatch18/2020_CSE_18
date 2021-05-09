@@ -30,11 +30,11 @@ This file is the code for the next page of the app, which includes Threshold val
  
 This week we have created the mobile views of settings pages such as Set Threshold page and Add phone number page.
 
-settigs.xml description:
-This file includes the code for edit textpreferences for first,second,third phone numbers.
-
 threshold_setting.xml:
-This file includes the code for edit textpreferences for Threshold value
+This file includes the code to Threshold value.
+
+settigs.xml description:
+This file includes the code to set first,second,third phone numbers.
 
 
 
