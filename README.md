@@ -36,7 +36,15 @@ This file includes the code to set the Threshold value.
 settigs.xml description:
 This file includes the code to set first,second,third phone numbers.
 
+31/05/2021
 
+This week we have created the user interface of guardian app.
+
+Which includes four buttons,
+ *loc - To get the location.
+ *photo - To capture the photo from the victim phone.
+ *Emergency info - This button is used to send the sms along with the location of the victim to who ever they wish to.
+ *Nearest info - This button is used to get any information like near by hospitals and near by police station.
 
 
 
