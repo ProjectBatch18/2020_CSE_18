@@ -94,18 +94,7 @@ public class ShakeListener implements SensorListener
       // threshhold caluclator
       float speed = Math.abs(values[SensorManager.DATA_X] + values[SensorManager.DATA_Y] + values[SensorManager.DATA_Z] - mLastX - mLastY - mLastZ) / diff * 10000;
       
-    //  System.out.println("the value is "+speed);
-      
-//      if(speed >= 1200 && speed < 1500 && (now - mLastShake > SHAKE_DURATION)){
-//    	  
-//    	  mLastShake = now;
-//    	  if (mShakeListener != null) { 
-//        	  
-//             // mShakeListener.onCamera(speed);
-//          	              
-  //    	  mLastForce = now;
-//      }          
-      
+  
       SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(mContext);
       FORCE_THRESHOLD = Integer.parseInt(sp.getString("threshhold","125000"));       
       if (speed > FORCE_THRESHOLD) {
