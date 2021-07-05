@@ -1,4 +1,4 @@
-package com.project.guardian;
+package com.example.iprobguardian.NearestInfo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
