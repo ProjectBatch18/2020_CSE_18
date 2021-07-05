@@ -56,12 +56,13 @@ public class smsReceiver extends BroadcastReceiver {
                         playVoice(body2);
                       }
             }
-    }
+    
        
     public void playVoice(String message) {
         Intent intentService = new Intent(this.cntxt, MyAlarmService.class);
         intentService.putExtra("text", message);
         this.cntxt.startService(intentService);
     }
+  }               
 
     
