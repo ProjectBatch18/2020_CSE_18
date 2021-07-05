@@ -1,4 +1,4 @@
-package com.project.guardian;
+package com.example.iprobguardian.SmsReceiver;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.content.BroadcastReceiver;
