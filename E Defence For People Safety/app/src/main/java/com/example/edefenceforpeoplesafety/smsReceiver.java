@@ -29,8 +29,7 @@ public class smsReceiver extends BroadcastReceiver {
         }
     };
     
-    private int[] output_formats = {2, 1};
-    private MediaRecorder recorder = null;
+    
     SmsManager smanager;
 
     /* renamed from: sp */
