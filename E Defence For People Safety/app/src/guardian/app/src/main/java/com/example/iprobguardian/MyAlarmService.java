@@ -1,4 +1,4 @@
-package com.project.guardian;
+package com.example.iprobguardian.MyAlarmService;
 
 import android.app.Service;
 import android.content.Intent;
